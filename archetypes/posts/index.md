@@ -12,3 +12,13 @@ tags:
     - Untagged
 autonumbering: false
 ---
+
+Brief
+
+<!--more-->
+
+Contents
+
+## References
+
+{{< bibliography >}}

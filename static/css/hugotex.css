@@ -49,34 +49,3 @@ footer .theme-by {
   float: right;
   display: block;
 }
-
-.p {
-    white-space:pre-wrap;
-    word-break:break-word;
-}
-
-/* adding an actual nav bar */
-ul.nav-links {
-  list-style-type: none;
-  margin: 0;
-  margin-bottom: 3em;
-  padding: 0;
-  overflow: hidden;
-  /* background-color: #333333; */
-}
-
-li.nav-link {
-  float: left;
-}
-
-li.nav-link a {
-  display: block;
-  /* color: white; */
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-}
-
-li.nav-link a:hover {
-  background-color: #999999;
-}
